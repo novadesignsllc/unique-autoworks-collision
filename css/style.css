@@ -1105,8 +1105,8 @@ img { max-width: 100%; display: block; }
   .nav-links a { padding: 18px 0; font-size: 1.2rem; border-bottom: 1px solid var(--border); }
   .nav-cta { display: none; }
   .hamburger { display: flex; }
-  .hero { align-items: flex-start; }
-  .hero-content { padding-top: 100px; }
+  .hero { align-items: flex-start; padding-top: 76px; }
+  .hero-content { padding-top: 24px; }
   .hero-headline { font-size: clamp(3rem, 13vw, 5rem); }
   .hero-stats { gap: 24px; }
   .stat-num { font-size: 2rem; }
