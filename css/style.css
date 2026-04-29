@@ -1106,6 +1106,7 @@ img { max-width: 100%; display: block; }
   .nav-cta { display: none; }
   .hamburger { display: flex; }
   .hero { align-items: flex-start; }
+  .hero-content { padding-top: 100px; }
   .hero-headline { font-size: clamp(3rem, 13vw, 5rem); }
   .hero-stats { gap: 24px; }
   .stat-num { font-size: 2rem; }
